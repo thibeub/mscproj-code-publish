@@ -1,0 +1,14 @@
+.pio/
+.vscode/
+test/
+*.asv
+__pycache__/
+figures/
+*.csv
+*.xlsx
+*.xls
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
